@@ -5,7 +5,7 @@
 </h1>
 <h3 align="center">A passionate computer science student from India</h3>
 <br/>
-<div align="center">
+<div align="center" >
   
   🔭 I’m currently working on **Java Project**
   
@@ -13,7 +13,7 @@
   
   💬 Ask me about **Data Structures and Algorithms in CPP**
   
-  ⚡ Fun fact: **My laptop is haunted by a friendly ghost who occasionally leaves helpful comments in my code.**
+  ⚡ Fun fact: **I once created a GitHub repository so awesome, even the README.md gave me a standing ovation.**
   
 </div>
 
