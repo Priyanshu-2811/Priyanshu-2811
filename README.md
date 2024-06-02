@@ -24,9 +24,9 @@
   </a>
   <a href="https://www.linkedin.com/in/priyanshu-tiwari-3b3b0524a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
-  <a href="https://leetcode.com/u/priyanshu_2811" target="_blank">
+<!--   <a href="https://leetcode.com/u/priyanshu_2811" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+  </a> -->
   <a href="https://www.codechef.com/users/priyanshu_2811" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
